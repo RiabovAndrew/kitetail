@@ -11,6 +11,9 @@
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/laravel/framework" />
@@ -170,6 +173,7 @@
       <workItem from="1604834554983" duration="7000" />
       <workItem from="1604903841307" duration="3575000" />
       <workItem from="1604926550301" duration="941000" />
+      <workItem from="1611180015722" duration="119000" />
     </task>
     <servers />
   </component>
